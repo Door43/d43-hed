@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hed:home|Door43 (hed)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hed|d43-hed repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hed/archive/master.zip|d43-hed.zip]]
+
+**Recent Changes**
+{{changes>ns = hed}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hed|Ethnologue data]]
+
